@@ -1,0 +1,8 @@
+[Unit]
+Description=Fan Control Service
+
+[Service]
+ExecStart=/storage/.config/fancontrol.sh
+
+[Install]
+WantedBy=multi-user.target
