@@ -1,4 +1,5 @@
 # fancontrol
 For TinkerBoard / RPi / LibreElec
 
-Video: https://youtu.be/enco-fARksk
+[VIDEO Demonstration](https://youtu.be/enco-fARksk)
+
