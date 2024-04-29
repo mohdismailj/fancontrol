@@ -8,5 +8,7 @@ For Armbian
 
 nano /etc/systemd/system/fanservice.service
 chmod +x /root/fancontrol.sh
+sudo systemctl start fanservice.service
+sudo systemctl enable fanservice.service
 
 
