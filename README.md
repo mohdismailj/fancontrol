@@ -7,5 +7,6 @@ For TinkerBoard / RPi / LibreElec
 For Armbian
 
 nano /etc/systemd/system/fanservice.service
+chmod +x /root/fancontrol.sh
 
 
